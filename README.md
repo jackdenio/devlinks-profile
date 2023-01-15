@@ -1,4 +1,4 @@
-<h1 align="center"> Dev Links - profile </h1>
+<h1 align="center"> DevLinks - profile </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
